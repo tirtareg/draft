@@ -4,7 +4,7 @@ title: "Draft Penurunan UKT Ganjil 2021/2022"
 date: "Diupdate pada: `r format(Sys.Date(), '%d %B %Y')`"
 output:
   html_document:
-    toc: no
+    toc: yes
     toc_depth: '2'
     df_print: paged
     theme: spacelab
@@ -56,7 +56,7 @@ pre { /* Code block - determines code spacing between lines */
 }
 </style>
 ```
-### **Penyesuaian UKT Semester Ganjil TA 2021/2022**
+## **Penyesuaian UKT Semester Ganjil TA 2021/2022**
 
 Universitas Sultan Ageng Tirtayasan kembali mengeluarkan kebijakan penyesuaian UKT untuk periode Semester Ganjil Tahun Akademik 2021/2022. Sebelum melakukan pendaftaran penyesuaian UKT, mahasiswa diharapkan mencermati dan memahami ketentuan-ketentuan berikut.
 
@@ -89,103 +89,49 @@ Berikut adalah berkas-berkas yang harus disiapkan:
 
 1.  Surat Pernyataan bermaterai yang menyatakan sudah menyelesaikan perkuliahan dan hanya akan mengambil Mata Kuliah Tugas Akhir/Skripsi di semester ganjil TA 2021/2022 dan diketahui oleh Dosen Wali dan Kepala Program Studi. Format Surat Pernyataan bisa diunduh bisa diunduh setelah
     anda masuk ke dalam formulir pendaftaran (***login*** **menggunakan email Untirta pendaftar**).
-
--   Transkrip nilai terbaru (sampai dengan semester genap TA 2021/2022)
+2.  Transkrip nilai terbaru (sampai dengan semester genap TA 2021/2022)
 
 Pendaftaran penyesuaian UKT 50% dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **21 -- 25 Juni 2021**.
 
-**2.    
-Penyesuaian UKT Kelompok
-Yatim dan Yatim Piatu**
+## **Penyesuaian UKT Kelompok Yatim dan Yatim Piatu**
 
-Penyesuaian UKT Kelompok Yatim dan Yatim Piatu adalah
-pengurangan UKT menjadi UKT kelompok 3 (tiga) yang diberikan kepada mahasiswa
-dengan golongan UKT minimal 4 di mana orang tua/wali mahasiswa meninggal dunia
-sehingga kesulitan membayar UKT.
+Penyesuaian UKT Kelompok Yatim dan Yatim Piatu adalah pengurangan UKT menjadi UKT kelompok 3 (tiga) yang diberikan kepada mahasiswa dengan golongan UKT minimal 4 di mana orang tua/wali mahasiswa meninggal dunia sehingga kesulitan membayar UKT.
 
-Permohohan hanya berlaku satu semester dan dapat diperpanjang
-dengan mengunggah berkas berikut:
+Permohohan hanya berlaku satu semester dan dapat diperpanjang dengan mengunggah berkas berikut:
 
 1.  KTP Mahasiswa
-
 2.  Kartu Keluarga
-
 3.  Akta Kematian
+4.  Surat Keterangan belum menikah lagi dari Kelurahan/Desa
+5.  Surat Pernyataan Keabsahan data. Format Surat Pernyataan bisa diunduh setelah anda masuk ke dalam formulir pendaftaran (***login*** **menggunakan email Untirta pendaftar**).
 
-4.  Surat Keterangan
-    belum menikah lagi dari Kelurahan/Desa
+Pendaftaran penyesuaian UKT Kelompok Yatim dan Yatim Piatu dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal 21 -- 25 Juni 2021.
 
-5.  Surat Pernyataan
-    Keabsahan data. Format Surat Pernyataan bisa diunduh setelah anda masuk ke
-    dalam formulir pendaftaran (***login*** **menggunakan email
-    Untirta pendaftar**).
+## **Penyesuaian UKT di masa Pandemi Covid-19**
 
-Pendaftaran penyesuaian UKT Kelompok Yatim dan Yatim Piatu
-dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta
-pendaftar** dari tanggal 21 -- 25 Juni 2021.
-
-**3.    
-Penyesuaian UKT di masa
-Pandemi Covid-19**
-
-Penyesuaian UKT di masa Pandemi Covid-19 adalah penyesuaian
-UKT yang diberikan kepada mahasiswa di mana Orang Tua / Wali yang terkena PHK,
-Pensiun, Sakit Permanen, dan Pendapatan Berkurang akibat Bencana Alam atau
-Covid-19. Penyesuaian ini paling banyak 2 tingkat dan minimal diajukan oleh **Mahasiswa
-dengan Kelompok UKT K4**.
+Penyesuaian UKT di masa Pandemi Covid-19 adalah penyesuaian UKT yang diberikan kepada mahasiswa di mana Orang Tua / Wali yang terkena PHK, Pensiun, Sakit Permanen, dan Pendapatan Berkurang akibat Bencana Alam atau Covid-19. Penyesuaian ini paling banyak 2 tingkat dan minimal diajukan oleh **Mahasiswa dengan Kelompok UKT K4**.
 
 Berikut adalah berkas-berkas yang harus diunggah.
 
-a.  Surat Permohonan
-    dari Orang Tua / Wali **ditulis tangan** dan ditanda tangani di atas
-    materai (**format PDF**)
+1.  Surat Permohonan dari Orang Tua / Wali **ditulis tangan** dan ditanda tangani di atas materai (**format PDF**)
 
-b.  KTP Orang Tua /
-    Wali (**format image**)
+2.  KTP Orang Tua / Wali (**format image**)
 
-c.  Persyaratan
-    khusus dalam format PDF (**pilih salah satu**):
+3.  Persyaratan khusus dalam format PDF (**pilih salah satu**):
 
-1.    
-Surat Kepala Desa sesuai dengan KTP Orang Tua / Wali yang
-menyatakan bahwa usaha Orang Tua mengalami penurunan pendapatan akibat bencana
-alam atau Covid-19 bagi pendaftar **kategori Orang Tua mengalami penurunan
-pendapatan akibat bencana alam atau Covid-19**
-
-2.    
-Surat Keterangan Kepala Desa dan Perusahaan terkait yang
-menyatakan bahwa orang tua / wali mengalami pemutusan hubungan kerja (PHK) bagi
-pendaftar **kategori Orang Tua / Wali mengalami Pemutusan Hubungan Kerja (PHK)**
-
-3.    
-Surat Keterangan Kepala Desa dan Perusahaan / Instansi
-terkait bahwa orang Tua / Wali telah mencapai Pensiun bagi pendaftar **kategori
-Orang Tua / Wali sudah Pensiun**
-
-4.    
-Surat Keterangan dari Dokter Pemerintah (Puskesmas/Rumah
-Sakit Pemerintah) yang menyatakan bahwa orang tua / wali menderita Sakit
-Permanen sehingga tidak bisa melaksanakan aktivitas kerja bagi pendaftar **kategori
-Orang Tua / Wali menderita sakit permanen yang menyebabkan tidak bisa
-melaksanakan aktifitas bekerja**
+    a.  Surat Kepala Desa sesuai dengan KTP Orang Tua / Wali yang menyatakan bahwa usaha Orang Tua mengalami penurunan pendapatan akibat bencanan alam atau Covid-19 bagi pendaftar **kategori Orang Tua mengalami penurunan pendapatan akibat bencana alam atau Covid-19**
+    b.  Surat Keterangan Kepala Desa dan Perusahaan terkait yang menyatakan bahwa orang tua / wali mengalami pemutusan hubungan kerja (PHK) bagi pendaftar **kategori Orang Tua / Wali mengalami Pemutusan Hubungan Kerja (PHK)**
+    c.  Surat Keterangan Kepala Desa dan Perusahaan / Instansi terkait bahwa orang Tua / Wali telah mencapai Pensiun bagi pendaftar **kategori Orang Tua / Wali sudah Pensiun**
+    d.  Surat Keterangan dari Dokter Pemerintah (Puskesmas/Rumah Sakit Pemerintah) yang menyatakan bahwa orang tua / wali menderita Sakit Permanen sehingga tidak bisa melaksanakan aktivitas kerja bagi pendaftar **kategori Orang Tua / Wali menderita sakit permanen yang menyebabkan tidak bisa melaksanakan aktifitas bekerja**
 
 Pendaftaran dapat dilakukan dengan mengisi formulir berikut **menggunakan
 akun email Untirta pendaftar** dari tanggal 21 -- 25 Juni 2021.
 
-**4.    
-Penangguhan pembayaran UKT**
+## **Penangguhan pembayaran UKT**
 
-Kebijakan ini diperuntukan bagi mahasiswa yang **tidak
-mendapatkan Penyesuaian UKT** dan terkendala dengan pembayaran UKT
-sehingga memerlukan penangguhan pembayaran UKT. Bagi para pendaftar penangguhan
-pembayaran UKT diharapkan **memahami alur pengisian KRS** sehingga
-tidak terjadi masalah di kemudian hari. Alur pengisian KRS bagi mahasiswa yang
-melakukan penangguhan pembayaran UKT bisa dilihat [**di sini**](https://drive.google.com/file/d/1y9pSHwRBRkHsj_HRrLzvjg3xAsAVypVE/view?usp=sharing) dan formulir KRS manual bisa
-diunduh [**di sini**](https://drive.google.com/file/d/1yAM0GfI8bXYS2bw_Q6sRvMypzDFzgkdP/view?usp=sharing).
+Kebijakan ini diperuntukan bagi mahasiswa yang **tidak mendapatkan Penyesuaian UKT** dan terkendala dengan pembayaran UKT sehingga memerlukan penangguhan pembayaran UKT. Bagi para pendaftar penangguhan pembayaran UKT diharapkan **memahami alur pengisian KRS** sehingga
+tidak terjadi masalah di kemudian hari. Alur pengisian KRS bagi mahasiswa yang melakukan penangguhan pembayaran UKT bisa dilihat [**di sini**](https://drive.google.com/file/d/1y9pSHwRBRkHsj_HRrLzvjg3xAsAVypVE/view?usp=sharing) dan formulir KRS manual bisa diunduh [**di sini**](https://drive.google.com/file/d/1yAM0GfI8bXYS2bw_Q6sRvMypzDFzgkdP/view?usp=sharing).
 
-Adapun berkas yang harus disiapkan dan diunggah
-adalah [**Surat Pernyataan Kesanggupan Membayar UKT**](https://drive.google.com/file/d/1wTfyJHu3QZsNu5QzvOjjo1oqr88CIkgJ/view?usp=sharing).
+Adapun berkas yang harus disiapkan dan diunggah adalah [**Surat Pernyataan Kesanggupan Membayar UKT**](https://drive.google.com/file/d/1wTfyJHu3QZsNu5QzvOjjo1oqr88CIkgJ/view?usp=sharing).
 
-Pendaftaran penangguhan pembayaran UKT dilakukan
-dengan mengisi formulir berikut **menggunakan akun email Untirta
-pendaftar** dari tanggal xxxx 2021.\
+Pendaftaran penangguhan pembayaran UKT dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal xxxx 2021.\
